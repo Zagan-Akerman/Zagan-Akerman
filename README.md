@@ -1,0 +1,3 @@
+- 👋 Hi, I'm @Zagan-Akerman
+- 👀 I'm interested in illustration and front end development
+- 🌱 I'm currently learning HTML, CSS and JS
